@@ -1,4 +1,4 @@
-Sentimental Analysis
+#Sentimental Analysis
 
 This is a sentimental analysis that checks for the tweets fetched from Twitter using Python
 This program analyzes tweets as positive or negative
